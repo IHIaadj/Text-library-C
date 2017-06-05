@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1458824270 source:e:\last\biblio\biblio_llc_texte\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<unistd.h>
+	"Headers.h"
+
+1458816224 e:\last\biblio\biblio_llc_texte\headers.h
+	"../ModeleLLC/LLC_modele.h"
+
+1458823952 e:\last\biblio\modelellc\llc_modele.h
+
+1458817805 source:e:\last\biblio\biblio_llc_texte\editer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<unistd.h>
+	"Headers.h"
+
+1458817724 source:e:\last\biblio\biblio_llc_texte\statistiques.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<unistd.h>
+	"Headers.h"
+
+1458829403 source:e:\last\biblio\biblio_llc_texte\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<unistd.h>
+	"Headers.h"
+
+1458817724 source:e:\last\biblio\biblio_llc_texte\decorfonction.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<unistd.h>
+	"Headers.h"
+
+1459110749 source:e:\tp\biblio\biblio_llc_texte\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<unistd.h>
+	"Headers.h"
+
+1459115173 e:\tp\biblio\biblio_llc_texte\headers.h
+	"../ModeleLLC/LLC_modele.h"
+
+1459013741 e:\tp\biblio\modelellc\llc_modele.h
+
+1459109977 source:e:\tp\biblio\biblio_llc_texte\decorfonction.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<unistd.h>
+	"Headers.h"
+
+1459112506 source:e:\tp\biblio\biblio_llc_texte\editer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<unistd.h>
+	"Headers.h"
+
+1459113610 source:e:\tp\biblio\biblio_llc_texte\statistiques.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<unistd.h>
+	"Headers.h"
+
+1459113923 source:e:\tp\biblio\biblio_llc_texte\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<unistd.h>
+	"Headers.h"
+
+1459235823 source:e:\aiouez_benmeziane_tp1_g9\biblio\biblio_llc_texte\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<unistd.h>
+	"Headers.h"
+
+1459234169 e:\aiouez_benmeziane_tp1_g9\biblio\biblio_llc_texte\headers.h
+	"../ModeleLLC/LLC_modele.h"
+
+1459013741 e:\aiouez_benmeziane_tp1_g9\biblio\modelellc\llc_modele.h
+
+1459109977 source:e:\aiouez_benmeziane_tp1_g9\biblio\biblio_llc_texte\decorfonction.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<unistd.h>
+	"Headers.h"
+
+1459235823 source:e:\aiouez_benmeziane_tp1_g9\biblio\biblio_llc_texte\editer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<unistd.h>
+	"Headers.h"
+
+1459234432 source:e:\aiouez_benmeziane_tp1_g9\biblio\biblio_llc_texte\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<unistd.h>
+	"Headers.h"
+
+1459155897 source:e:\aiouez_benmeziane_tp1_g9\biblio\biblio_llc_texte\statistiques.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<unistd.h>
+	"Headers.h"
+
